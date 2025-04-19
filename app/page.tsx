@@ -38,9 +38,9 @@ export default function Home() {
             className="text-[16px] font-normal text-grey"
             style={{ color: "#525252" }}
           >
-            I've been searching for high-quality abstract images for my design
+            {`I've been searching for high-quality abstract images for my design
             projects, and I'm thrilled to have found this platform. The variety
-            and depth of creativity are astounding!
+            and depth of creativity are astounding!`}
           </text>
         </div>
       </main>
