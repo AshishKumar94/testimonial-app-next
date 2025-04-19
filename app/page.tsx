@@ -25,7 +25,7 @@ export default function Home() {
             />
             <div className="flex flex-col ml-4">
               <h2 className="text-[18px] font-semibold text-black text-ellipsis">
-                Sarah Dole
+                Sarah Doles
               </h2>
               <h3
                 className="text-[14px] font-normal"
