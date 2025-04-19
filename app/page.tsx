@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import ProfileImage from "../img/profile-thumbnail.jpeg";
 
 export default function Home() {
   return (
@@ -17,7 +16,7 @@ export default function Home() {
           <div className="flex mb-4" style={{ height: "48px", width: "100%" }}>
             <Image
               className="mb-4 h-full"
-              src={ProfileImage}
+              src="./profile-thumbnail.png"
               alt="profile image"
               width={48}
               height={48}
